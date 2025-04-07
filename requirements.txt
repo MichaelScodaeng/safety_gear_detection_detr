@@ -1,0 +1,17 @@
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
+transformers>=4.20.0
+pytorch-lightning>=1.6.0
+pycocotools>=2.0.4
+pyyaml>=6.0
+matplotlib>=3.5.0
+numpy>=1.20.0
+tqdm>=4.62.0
+Pillow>=8.0.0
+supervision==0.3.0
+timm>=0.6.0
+coco-eval
+opencv-python>=4.5.0
+accelerate
+scipy
+pandas
+wandb
